@@ -90,7 +90,7 @@ class Chain:
             7. End with contact information:
                - Phone: +91-6303590620
                - Email: ravitejavavilapalli21@gmail.com
-               - LinkedIn: linkedin.com/in/RaviTeja
+               - LinkedIn: https://www.linkedin.com/in/ravi-teja-vavilapalli-18152722a/
 
             Write a personalized email that specifically addresses the job requirements while highlighting relevant experience.
             ### EMAIL (NO PREAMBLE):
