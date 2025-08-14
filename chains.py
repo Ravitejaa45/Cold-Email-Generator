@@ -10,7 +10,7 @@ class Chain:
         self.llm = ChatGroq(
             temperature=0.7,
             groq_api_key="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",
-            model_name="llama-3.1-70b-versatile"
+            model_name="llama-3.3-70b-versatile"
         )
 
     def extract_jobs(self, cleaned_text):
@@ -99,3 +99,4 @@ class Chain:
         chain_email = prompt_email | self.llm
         res = chain_email.invoke({"job_description": str(job)})
         return res.content
+
